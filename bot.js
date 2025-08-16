@@ -38,7 +38,7 @@ const commands = [
 // ...
 
 // تشغيل البوت – التوكن مكشوف هنا مباشرة
-client.login("MTQwNTcyMDAyMjUxMjQzNTI0MA.G7BzIE.872zwO9FfqPy0FMgDhaDWawGbSC23tEHrfP0zo");
+client.login('MTQwNTcyMDAyMjUxMjQzNTI0MA.G7BzIE.872zwO9FfqPy0FMgDhaDWawGbSC23tEHrfP0zo');
 
 // تصدير
 module.exports = { client, commands };
